@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AEF38378C72AD114060A21B1"
+               BuildableName = "CollectionViewMultipleDatasourceAndLayout.app"
+               BlueprintName = "CollectionViewMultipleDatasourceAndLayout"
+               ReferencedContainer = "container:CollectionViewMultipleDatasourceAndLayout.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AEF38378C72AD114060A21B1"
+            BuildableName = "CollectionViewMultipleDatasourceAndLayout.app"
+            BlueprintName = "CollectionViewMultipleDatasourceAndLayout"
+            ReferencedContainer = "container:CollectionViewMultipleDatasourceAndLayout.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
